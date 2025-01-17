@@ -9,16 +9,44 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-exercise = new Template.Microlesson {
-  friendlyName = "Exercise"
-  dirName = "exercise"
+parenthesisBalancer = new Template.Microlesson {
+  friendlyName = "Parenthesis Balancer"
+  dirName = "parenthesis-balancer"
   type = "Content"
   videoUrl = ""
 }
 
-levelUp = new Template.Microlesson {
-  friendlyName = "Level Up"
-  dirName = "level-up"
+stringReverser = new Template.Microlesson {
+  friendlyName = "String Reverser"
+  dirName = "string-reverser"
+  type = "Content"
+  videoUrl = ""
+}
+
+minimumValueRetriever = new Template.Microlesson {
+  friendlyName = "Minimum Value Retriever"
+  dirName = "minimum-value-retriever"
+  type = "Content"
+  videoUrl = ""
+}
+
+binaryNumberGenerator = new Template.Microlesson {
+  friendlyName = "Binary Number Generator"
+  dirName = "binary-number-generator"
+  type = "Content"
+  videoUrl = ""
+}
+
+queueUsingStacks = new Template.Microlesson {
+  friendlyName = "Queue Using Stacks"
+  dirName = "queue-using-stacks"
+  type = "Level Up Content"
+  videoUrl = ""
+}
+
+circularQueue = new Template.Microlesson {
+  friendlyName = "Circular Queue"
+  dirName = "circular-queue"
   type = "Level Up Content"
   videoUrl = ""
 }

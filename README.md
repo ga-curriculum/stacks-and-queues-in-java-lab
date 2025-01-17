@@ -1,47 +1,52 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Stacks and Queues in Java Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab module, you'll explore the power of stacks and queues in Java by solving real-world-inspired problems. You'll balance parentheses for valid expressions, reverse strings efficiently, retrieve the minimum value from a stack in constant time, and generate binary numbers using queues—all foundational concepts for building robust software systems.
 
 ## Content
 
 - [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Parenthesis Balancer](./parenthesis-balancer/README.md)
+- [String Reverser](./string-reverser/README.md)
+- [Minimum Value Retriever](./minimum-value-retriever/README.md)
+- [Binary Number Generator](./binary-number-generator/README.md)
+
+## Level Up Content
+
+- 🚀 [Queue Using Stacks](./queue-using-stacks/README.md)
+- 🚀 [Circular Queue](./circular-queue/README.md)
+
+
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- Stacks in Java
+- Queues in Java
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
+Estimated time to complete core lab exercise: **2 hr**
 
 ### Starter code
 
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/stacks-and-queues-in-java-lab-starter.git)
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/stacks-and-queues-in-java-lab-solution.git)
 
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/stacks-and-queues-in-java-lab/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/stacks-and-queues-in-java-lab/canvas-landing-pages/jsc.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/stacks-and-queues-in-java-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
