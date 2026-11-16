@@ -14,10 +14,10 @@ cd ~/code/ga/labs
 
 ## Step 2: Clone a local copy of the starter code
 
-Clone a copy of [Stacks and Queues in Java Lab Starter](https://git.generalassemb.ly/modular-curriculum-all-courses/stacks-and-queues-in-java-lab-starter) repository locally by using the `git clone` command:
+Clone a copy of [Stacks and Queues in Java Lab Starter](https://github.com/ga-curriculum/stacks-and-queues-in-java-lab-starter) repository locally by using the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/modular-curriculum-all-courses/stacks-and-queues-in-java-lab-starter stacks-and-queues-in-java-lab
+git clone https://github.com/ga-curriculum/stacks-and-queues-in-java-lab-starter stacks-and-queues-in-java-lab
 ```
 > 💡 The `stacks-and-queues-in-java-lab` at the end of this command will place the contents of the `stacks-and-queues-in-java-lab-starter` repo into a directory named <code class="filepath">stacks-and-queues-in-java-lab</code>.
 
